@@ -1,13 +1,12 @@
 # Basic C Programs
 
-Is repository me kuch basic C programs diye gaye hain.
+This repository contains some basic C programs.
 
 ## Programs
 
-- [Hello World](hello.c) – Ek simple program jo "Hello, World!" print karta hai.
-- [Factorial](factorial.c) – Recursive function se factorial calculate karne wala program.
-- [Prime Check](sum.c) – Check karta hai ki koi number prime hai ya nahi.
-
+- [Hello World](hello.c) – A simple program that prints "Hello, World!".
+- [Factorial](factorial.c) – A program that calculates the factorial of a number using recursion.
+- [Sum of Two Numbers](sum.c) – A program that calculates the sum of two numbers.
 ---
 
 ## Assignment Instructions Followed
@@ -17,9 +16,9 @@ Is repository me kuch basic C programs diye gaye hain.
    - `hello.c`  
    - `factorial.c`  
    - `sum.c`  
-3. **README File:** Is file me programs ke links diye gaye hain.  
-4. **License File:** MIT License add kiya gaya hai.  
-5. **Fork and Star:** Kisi dusre repository ko fork karke star kiya aur pull request banaya.
+3. **README File:** This file contains links to the program files.   
+4. **License File:**MIT License has been added.
+5. **Fork and Star:** Forked and starred another repository and created a pull request.
 
 ---
 
@@ -29,3 +28,8 @@ Is repository me kuch basic C programs diye gaye hain.
   ```bash
   gcc filename.c -o output
   ./output
+
+Example:
+```bash
+gcc hello_world.c -o hello_world
+./hello_world
